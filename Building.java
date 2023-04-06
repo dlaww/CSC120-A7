@@ -7,7 +7,7 @@ public class Building {
 
     /* Default constructor */
     public Building() {
-        this("<Name Unknown>", "<Address Unknown>", 1);
+        this("<Name Unknown>", "<Address Unknown>", 1); 
     }
 
     /* Overloaded constructor with address only */
